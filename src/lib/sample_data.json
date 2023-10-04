@@ -1,0 +1,478 @@
+[
+    {
+        "id": 1,
+        "identifier": "bulbasaur",
+        "species_id": 1,
+        "order": 1.0,
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": 2,
+        "identifier": "ivysaur",
+        "species_id": 2,
+        "order": 2.0,
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": 3,
+        "identifier": "venusaur",
+        "species_id": 3,
+        "order": 3.0,
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": 4,
+        "identifier": "charmander",
+        "species_id": 4,
+        "order": 5.0,
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": 5,
+        "identifier": "charmeleon",
+        "species_id": 5,
+        "order": 6.0,
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": 6,
+        "identifier": "charizard",
+        "species_id": 6,
+        "order": 7.0,
+        "types": [
+            "fire",
+            "flying"
+        ]
+    },
+    {
+        "id": 7,
+        "identifier": "squirtle",
+        "species_id": 7,
+        "order": 10.0,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 8,
+        "identifier": "wartortle",
+        "species_id": 8,
+        "order": 11.0,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 9,
+        "identifier": "blastoise",
+        "species_id": 9,
+        "order": 12.0,
+        "types": [
+            "water"
+        ]
+    },
+    {
+        "id": 10,
+        "identifier": "caterpie",
+        "species_id": 10,
+        "order": 14.0,
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": 11,
+        "identifier": "metapod",
+        "species_id": 11,
+        "order": 15.0,
+        "types": [
+            "bug"
+        ]
+    },
+    {
+        "id": 12,
+        "identifier": "butterfree",
+        "species_id": 12,
+        "order": 16.0,
+        "types": [
+            "bug",
+            "flying"
+        ]
+    },
+    {
+        "id": 13,
+        "identifier": "weedle",
+        "species_id": 13,
+        "order": 17.0,
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "id": 14,
+        "identifier": "kakuna",
+        "species_id": 14,
+        "order": 18.0,
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "id": 15,
+        "identifier": "beedrill",
+        "species_id": 15,
+        "order": 19.0,
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "id": 16,
+        "identifier": "pidgey",
+        "species_id": 16,
+        "order": 21.0,
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 17,
+        "identifier": "pidgeotto",
+        "species_id": 17,
+        "order": 22.0,
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 18,
+        "identifier": "pidgeot",
+        "species_id": 18,
+        "order": 23.0,
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 19,
+        "identifier": "rattata",
+        "species_id": 19,
+        "order": 25.0,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 20,
+        "identifier": "raticate",
+        "species_id": 20,
+        "order": 27.0,
+        "types": [
+            "normal"
+        ]
+    },
+    {
+        "id": 21,
+        "identifier": "spearow",
+        "species_id": 21,
+        "order": 30.0,
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 22,
+        "identifier": "fearow",
+        "species_id": 22,
+        "order": 31.0,
+        "types": [
+            "normal",
+            "flying"
+        ]
+    },
+    {
+        "id": 23,
+        "identifier": "ekans",
+        "species_id": 23,
+        "order": 32.0,
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 24,
+        "identifier": "arbok",
+        "species_id": 24,
+        "order": 33.0,
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 25,
+        "identifier": "pikachu",
+        "species_id": 25,
+        "order": 35.0,
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": 26,
+        "identifier": "raichu",
+        "species_id": 26,
+        "order": 51.0,
+        "types": [
+            "electric"
+        ]
+    },
+    {
+        "id": 27,
+        "identifier": "sandshrew",
+        "species_id": 27,
+        "order": 53.0,
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "id": 28,
+        "identifier": "sandslash",
+        "species_id": 28,
+        "order": 55.0,
+        "types": [
+            "ground"
+        ]
+    },
+    {
+        "id": 29,
+        "identifier": "nidoran-f",
+        "species_id": 29,
+        "order": 57.0,
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 30,
+        "identifier": "nidorina",
+        "species_id": 30,
+        "order": 58.0,
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 31,
+        "identifier": "nidoqueen",
+        "species_id": 31,
+        "order": 59.0,
+        "types": [
+            "poison",
+            "ground"
+        ]
+    },
+    {
+        "id": 32,
+        "identifier": "nidoran-m",
+        "species_id": 32,
+        "order": 60.0,
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 33,
+        "identifier": "nidorino",
+        "species_id": 33,
+        "order": 61.0,
+        "types": [
+            "poison"
+        ]
+    },
+    {
+        "id": 34,
+        "identifier": "nidoking",
+        "species_id": 34,
+        "order": 62.0,
+        "types": [
+            "poison",
+            "ground"
+        ]
+    },
+    {
+        "id": 35,
+        "identifier": "clefairy",
+        "species_id": 35,
+        "order": 64.0,
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": 36,
+        "identifier": "clefable",
+        "species_id": 36,
+        "order": 65.0,
+        "types": [
+            "fairy"
+        ]
+    },
+    {
+        "id": 37,
+        "identifier": "vulpix",
+        "species_id": 37,
+        "order": 66.0,
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": 38,
+        "identifier": "ninetales",
+        "species_id": 38,
+        "order": 68.0,
+        "types": [
+            "fire"
+        ]
+    },
+    {
+        "id": 39,
+        "identifier": "jigglypuff",
+        "species_id": 39,
+        "order": 71.0,
+        "types": [
+            "normal",
+            "fairy"
+        ]
+    },
+    {
+        "id": 40,
+        "identifier": "wigglytuff",
+        "species_id": 40,
+        "order": 72.0,
+        "types": [
+            "normal",
+            "fairy"
+        ]
+    },
+    {
+        "id": 41,
+        "identifier": "zubat",
+        "species_id": 41,
+        "order": 73.0,
+        "types": [
+            "poison",
+            "flying"
+        ]
+    },
+    {
+        "id": 42,
+        "identifier": "golbat",
+        "species_id": 42,
+        "order": 74.0,
+        "types": [
+            "poison",
+            "flying"
+        ]
+    },
+    {
+        "id": 43,
+        "identifier": "oddish",
+        "species_id": 43,
+        "order": 76.0,
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": 44,
+        "identifier": "gloom",
+        "species_id": 44,
+        "order": 77.0,
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": 45,
+        "identifier": "vileplume",
+        "species_id": 45,
+        "order": 78.0,
+        "types": [
+            "grass",
+            "poison"
+        ]
+    },
+    {
+        "id": 46,
+        "identifier": "paras",
+        "species_id": 46,
+        "order": 80.0,
+        "types": [
+            "bug",
+            "grass"
+        ]
+    },
+    {
+        "id": 47,
+        "identifier": "parasect",
+        "species_id": 47,
+        "order": 81.0,
+        "types": [
+            "bug",
+            "grass"
+        ]
+    },
+    {
+        "id": 48,
+        "identifier": "venonat",
+        "species_id": 48,
+        "order": 82.0,
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "id": 49,
+        "identifier": "venomoth",
+        "species_id": 49,
+        "order": 83.0,
+        "types": [
+            "bug",
+            "poison"
+        ]
+    },
+    {
+        "id": 50,
+        "identifier": "diglett",
+        "species_id": 50,
+        "order": 84.0,
+        "types": [
+            "ground"
+        ]
+    }
+]
