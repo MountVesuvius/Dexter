@@ -47,10 +47,25 @@
             <!-- <h3>EV Yield: not currently available</h3> -->
             <div class="flex space-x-1 items-center">
                 <h3>Gender Rate:</h3>
+                {#if data.gender != -1}
                 <div class="flex flex-col">
                     <span class="text-blue-500">{(1 - data.gender/8)*100}% Male</span>
                     <span class="text-pink-500">{(data.gender/8)*100}% Female</span>
                 </div>
+                {:else}
+                <span class="text-gray-400">Genderless</span>
+                {/if}
+            </div>
+        </section>
+
+        <section class="flex justify-center items-center py-2">
+            <div class="flex flex-col items-center">
+                <img class="w-28" src="{data.sprites.front_default}" alt="">
+                <strong>Regular</strong>
+            </div>
+            <div class="flex flex-col items-center">
+                <img class="w-28" src="{data.sprites.front_shiny}" alt="">
+                <strong>Shiny</strong>
             </div>
         </section>
 

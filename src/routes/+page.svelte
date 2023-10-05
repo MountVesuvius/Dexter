@@ -1,6 +1,6 @@
 <script>
-    // import pokeData from "$lib/pokeData.json";
-    import pokeData from "$lib/sample_data.json";
+    import pokeData from "$lib/pokeData.json";
+    // import pokeData from "$lib/sample_data.json";
 
     import PokemonListing from "$lib/components/pokemon_listing.svelte";
 
