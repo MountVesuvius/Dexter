@@ -22,32 +22,32 @@
     {:else}
       <span class="uppercase font-mono">&nbsp;{stat_name}</span>
     {/if}
-    <span class="self-center font-mono">{value}</span>
     <div class="bg-gray-200 h-2 w-full">
       <div class="h-2 {transformKey(stat_name)}" style="width: {(value/MAX_VALUE) * 100}%"/>
     </div>
+    <span class="w-10 self-start font-mono">{value}</span>
 </div>
 
 <style>
   /* find nicer colors later */
   .hp {
-    background-color: theme('colors.green.400');
+    background-color: theme('colors.red.400');
   }
 
   .atk {
-    background-color: theme('colors.green.400');
+    background-color: theme('colors.yellow.400');
   }
 
   .def {
-    background-color: theme('colors.green.400');
+    background-color: theme('colors.pink.400');
   }
 
   .spa {
-    background-color: theme('colors.green.400');
+    background-color: theme('colors.dragon');
   }
 
   .spd {
-    background-color: theme('colors.green.400');
+    background-color: theme('colors.blue.400');
   }
 
   .spe {
